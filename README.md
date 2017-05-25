@@ -1,4 +1,4 @@
-# RPC-Prediction
+# Revenue Per Click Problem
 
 Performance marketing is an important channel for E-Commerce industry to present its product to potential customers. Especially Search Engine Marketing (SEM) shows high potential. SEM means showing advertisements next to the results a search engine returns for a user’s search query.
 
